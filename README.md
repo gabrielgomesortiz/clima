@@ -1,1 +1,1 @@
- https://gabrielgomesortiz.github.io/clima-/
+https://gabrielgomesortiz.github.io/clima/
