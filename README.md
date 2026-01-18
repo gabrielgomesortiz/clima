@@ -13,7 +13,7 @@ Aplicativo web que consulta o clima em tempo real usando a API do OpenWeatherMap
 - Tratamento de erro para localizações inválidas  
 
 ## Tecnologias
-- HTML5, CSS3, JavaScript (ES6+)  
+- HTML5, CSS3, JavaScript
 - API OpenWeatherMap  
 
 ## Arquivos
